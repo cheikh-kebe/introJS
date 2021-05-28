@@ -13,7 +13,7 @@ protein = protein.replace("CCU", "Proline ");
 protein = protein.replace("UCG", "Sérine ");
 protein = protein.replace("CGG", "Tyrosine ");
 protein = protein.replace("UUG", "Leucine ");
-protein = protein.replace("UUC", "Leucine ")
+protein = protein.replace("UUC", "Phenilalanine ")
 protein = protein.replace("CGC", "Arginine ");
 protein = protein.replace("UAC", "Tyrosine ");
 console.log(protein )
